@@ -1,2 +1,2 @@
 # ProjectsGithub
-Projekti na gitu
+Projekti
